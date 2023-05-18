@@ -4,10 +4,10 @@
 
 No | ID         | Name              | Task descriptions | Contribution %
 -- | ---------- | ------------------| ----------------- | --------------
-1  | 1211101589 | CHEW SHEN         |                   |
-2  | 1211101582 | TEOH KAI LOON     |                   |
-3  | 1211101022 | ASHLEY SIM CI HUI |                   |
-4  | 1211102285 | CHIN SHUANG YING  |                   |
+1  | 1211101589 | CHEW SHEN         |Deal 7 cards to each of the 4 players and All players must follow the suit or rank of the lead card|     25
+2  | 1211101582 | TEOH KAI LOON     |The first card in the deck is the first lead card and is placed at the center and determine the forst player according to the lead card.|     25
+3  | 1211101022 | ASHLEY SIM CI HUI |The highest-rank card with the same suit as the lead card wins the trick and the winner of a trick leads the next card. Combine all of our codes.|     25
+4  | 1211102285 | CHIN SHUANG YING  |All cards should be faced up to facilitate checking and Start a new game with randomized 52 cards. Code tester.|     25
 
 
 ## B. Feature Completion
