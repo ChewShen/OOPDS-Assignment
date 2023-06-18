@@ -187,7 +187,7 @@ public class Part02 {
                     
                     
             
-            //FIX!!!! resume previous game
+            //resume previous game
             case "r":
                 System.out.println("Please enter the filename to load your game: ");
                 String loadFile = input.nextLine();
