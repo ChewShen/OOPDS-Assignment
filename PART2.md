@@ -6,7 +6,7 @@ No | ID         | Name | Task descriptions | Contribution %
 -- | ---------- | ---- | ----------------- | --------------
 1  | 1211101589 | CHEW SHEN|<ul><li>When the remaining deck is exhausted and the player cannot play, the player does not play in the trick.</li> <li> Code tester. </li> </ul>|25
 2  | 1211101582 | TEOH KAI LOON     |<ul><li> Code debugger and tester.</li> <li>Finish a round of game correctly. Display the score of each player.</li> </ul>                 |25
-3  | 1211101022 | ASHLEY SIM CI HUI|<ul><li> Support partial GUI.</li> <li> If a player cannot follow suit or rank, the player must draw from the deck until a card can be played.</li> </ul>    |25
+3  | 1211101022 | ASHLEY SIM CI HUI|<ul><li> Support partial GUI.</li> <li> If a player cannot follow suit or rank, the player must draw from the deck until a card can be played.</li> <li>Reset the game. All scores become zero. Round and trick number restart from 1.</li><li>Keep the console output to facilitate checking. The data in console output and the GUI must tally.</li></ul>    |25
 4  | 1211102285 | CHIN SHUANG YING |<ul><li> Can exit and save the game (use txt file).</li><li>Can resume the game. The state of the game is restored when resuming a game (use txt file).</li></ul>|25
 
 
